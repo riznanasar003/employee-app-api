@@ -4,7 +4,6 @@ const schema = mongoose.Schema(
 
         "empid":String,
         "empname":String,
-        "empid":String,
         "mobno":String,
         "email":String,
 
